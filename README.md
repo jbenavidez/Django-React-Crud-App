@@ -20,4 +20,4 @@ $ Python manage.py runserver
 ```
  
  ## Front End View 
- ![Alt text](src/front.png "Home" )
+ ![Alt text](frontend/src/front.png "Home" )
