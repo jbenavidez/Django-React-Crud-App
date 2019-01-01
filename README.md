@@ -3,6 +3,7 @@ This app was created using Django and React.
 
 
 
+
  # App Concepts
 <ul>
 
@@ -19,5 +20,12 @@ Download the app and Run
 $ Python manage.py runserver 
 ```
  
- ## Front End View 
+ ## Front End View - React View
  ![Alt text](frontend/src/front.png "Home" )
+
+  ## Front End View - Dango Apis list item
+ ![Alt text](frontend/src/back1.png "back1" )
+
+
+  ## Front End View - Dango Apis detail 
+ ![Alt text](frontend/src/back2.png "back2" )
