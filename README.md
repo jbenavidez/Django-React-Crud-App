@@ -1,5 +1,5 @@
  # Django-React Todo App
-This app was created using Django and React, 
+This app was created using Django and React.  
 
 
 
@@ -19,4 +19,5 @@ Download the app and Run
 $ Python manage.py runserver 
 ```
  
- 
+ ## Front End View 
+ ![Alt text](src/assets/front.png "Home" )
