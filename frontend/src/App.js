@@ -256,7 +256,7 @@ alert(notification){
                 <table className="table table-bordered">
               <thead>
                 <tr>
-                  <th>Todo</th>
+                  <th>Note</th>
                  
                   <th>Action</th>
                 </tr>
