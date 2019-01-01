@@ -239,7 +239,7 @@ alert(notification){
             
             >
 
-            {this.state.editing ? 'update todo' : 'Add todo'}
+            {this.state.editing ? 'update Note' : 'Add Note'}
             
               </button>
 

@@ -1,4 +1,4 @@
- # Django-React Todo App
+ # Django-React Note App
 This app was created using Django and React.  
 
 
@@ -7,9 +7,9 @@ This app was created using Django and React.
  # App Concepts
 <ul>
 
- <li>It allow the user to create a todo </li>
-  <li>iIt allow the user to edit a todo</li>
-  <li>It allow the user to Delete a todo</li>
+ <li>It allow the user to create a Note </li>
+  <li>iIt allow the user to edit a Note</li>
+  <li>It allow the user to Delete a Note</li>
  
 </ul>
 
